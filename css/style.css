@@ -402,6 +402,10 @@ body {
 
 /* Section 5 */
 
+.Section5 {
+  margin-bottom: 113px;
+}
+
 .sec5-nav h3 {
   color: #0d0a19;
   font-family: Inter;
@@ -468,7 +472,6 @@ body {
 } */
 
 .find-brand {
-  
   position: relative;
   margin-bottom: 20px;
 }
@@ -494,22 +497,22 @@ body {
 }
 
 .find-b1-p1 {
-  color: #0D0A19;
-font-family: Inter;
-font-size: 16px;
-font-style: normal;
-font-weight: 600;
-line-height: 35px;
+  color: #0d0a19;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
 }
 
 .find-b1-p2 {
-  color: #0D0A19;
-text-align: right;
-font-family: Inter;
-font-size: 14px;
-font-style: normal;
-font-weight: 300;
-line-height: 35px;
+  color: #0d0a19;
+  text-align: right;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 35px;
 }
 
 .find-p2 {
@@ -523,29 +526,110 @@ line-height: 35px;
   margin-bottom: 25px;
 }
 
-
 .find-div-1 p {
   line-height: 1.5;
 }
 
+/* Section 6 */
 
+.Section6 {
+  height: 276px;
+  background: #f5f6f7;
+}
 
+.sec6-main-div {
+  width: 75%;
+  height: 85%;
+  margin: 20.7px auto;
+}
 
+.about-p1 {
+  color: var(--0-d-0-a-19-primary, #0d0a19);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+}
 
+.about-p2 a {
+  text-decoration: none;
+  color: var(--greys-9-a-9-ea-7, #9a9ea7);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+}
 
+.about-des {
+  margin-top: 40px;
+  margin-left: 56px;
+}
 
+.about-p2 {
+  margin-bottom: 12px;
+}
 
+/* Foot Area Section 7 */
 
+.Section7 {
+  width: 80%;
+  height: 10px;
+  margin: 0px auto;
+}
 
+.footer {
+  margin: 15px 56px;
+  display: flex;
+  justify-content: space-between;
+}
 
+.Privacy,
+.Term {
+  color: var(--0-d-0-a-19-primary, #0d0a19);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+}
 
+.copyright {
+  color: var(--greys-9-a-9-ea-7, #9a9ea7);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+}
 
+.lang {
+  color: var(--greys-9-a-9-ea-7, #9a9ea7);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+}
 
+.footer img {
+  margin-top: -15px;
+}
 
-
-
-
-
+.USD {
+  color: var(--greys-9-a-9-ea-7, #9a9ea7);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+}
 
 /* Responsive */
 
