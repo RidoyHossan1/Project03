@@ -154,6 +154,401 @@ body {
   margin-right: 5px;
 }
 
+/* Section 2 */
+.Section2 {
+  margin-top: 7.5rem;
+  margin-bottom: 6.25rem;
+}
+
+/* Section 3 */
+
+.Section3 {
+  margin-bottom: 104px;
+}
+
+.Section3 h3 {
+  color: #0d0a19;
+  font-family: Inter;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: -0.1px;
+  text-align: center;
+  margin-bottom: 46px;
+}
+
+.auction-box {
+  width: 360px;
+  height: 422px;
+  border-radius: 14px;
+  border: 1px solid #e4e6e8;
+  background: #fff;
+}
+
+.car-img-auction {
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 310px;
+  height: 178px;
+  margin: 10px 26px;
+}
+
+.heading-auction {
+  color: #0d0a19;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+  margin-top: 15px;
+  width: 310px;
+}
+
+.Section3 pre {
+  color: #9a9ea7;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+  width: 310px;
+}
+
+.p-auction {
+  color: #0d0a19;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+  margin-left: 20px;
+  flex-direction: column;
+  width: 210px;
+}
+
+.p-auction-1 {
+  color: #9a9ea7;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: -0.1px;
+  margin-left: 20px;
+  margin-top: -9px;
+  width: 210px;
+}
+
+.auction-price {
+  margin-top: 11px;
+  width: 310px;
+  display: flex;
+}
+
+.auction-price pre {
+  color: #0d0a19;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+}
+
+.auction-price p {
+  color: #9a9ea7;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: -0.1px;
+}
+
+.mini-width {
+  width: 60px;
+}
+
+.btn-auction {
+  width: 116px;
+  height: 46px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: var(--7963-f-0-primary, #7963f0);
+  margin-left: 76px;
+
+  color: var(--ffffff, #fff);
+  text-align: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+}
+
+/* Section 4 */
+
+.FindCarHeader {
+  width: 98%;
+  height: 60px;
+  margin: 0px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.Section4 {
+  margin-bottom: 102px;
+}
+
+.FindCard {
+  color: #0d0a19;
+  font-family: Inter;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: -0.1px;
+}
+
+.arrowArea {
+  color: #9a9ea7;
+  text-align: right;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 5px;
+}
+
+.header p span {
+  width: 46px;
+  height: 46px;
+  margin: 0px 5px;
+}
+
+.arrowArea img {
+  border-radius: 10px;
+  background: var(--greys-f-5-f-6-f-7, #f5f6f7);
+  padding: 10px !important;
+  width: 46px;
+  height: 46px;
+}
+
+.car-auct-section {
+  justify-content: space-evenly;
+  margin-top: 48px;
+  width: inherit;
+  margin-left: 11%;
+}
+
+.car-auct-section p {
+  color: #0d0a19;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.product-btn-main {
+  color: var(--7963-f-0-primary, #7963f0);
+  border-radius: 8px !important;
+  text-align: center !important;
+  font-family: "Inter";
+  font-size: 12px !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  line-height: 18px !important;
+  background: var(
+    --7963-f-0-soft,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.85) 0%,
+      rgba(255, 255, 255, 0.85) 100%
+    ),
+    #7963f0
+  );
+}
+
+.product-btn {
+  color: var(--greys-9-a-9-ea-7, #9a9ea7);
+  text-align: center;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px;
+  letter-spacing: -0.1px;
+  background: var(--greys-f-5-f-6-f-7, #f5f6f7);
+  width: 124px;
+  height: 36px;
+  border-radius: 8px !important;
+}
+
+.product {
+  min-width: 24%;
+  margin: 0px 20px 50px 0px;
+  left: 0px;
+  position: relative;
+  transition: 0.5s;
+}
+
+/* Section 5 */
+
+.sec5-nav h3 {
+  color: #0d0a19;
+  font-family: Inter;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: -0.1px;
+}
+
+.btn-sec5-nav {
+  color: var(--greys-9-a-9-ea-7, #9a9ea7);
+  text-align: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+}
+
+.active-btn {
+  color: var(--0-d-0-a-19-primary, #0d0a19);
+  border-radius: 8px;
+  border: 1px solid var(--outline, #eee);
+  background: var(--ffffff, #fff);
+  padding: 0px 25px;
+}
+
+.find-p1 {
+  color: #9a9ea7;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+  margin-bottom: 62px;
+}
+
+.find-b-p1 {
+  color: #0d0a19;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+  margin-top: 25px;
+}
+
+.find-b-p2 {
+  color: #9a9ea7;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+  margin-top: -21px;
+}
+
+/* .find-brand {
+  display: flex;
+} */
+
+.find-brand {
+  
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.find-brand-img {
+  margin-left: 30px;
+  margin-top: 37px;
+  margin-bottom: 37px;
+}
+
+.find-des {
+  margin-left: 16px;
+}
+
+.find-icon img {
+  margin-left: 7rem;
+  margin-top: 40px;
+}
+
+.find-des-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.find-b1-p1 {
+  color: #0D0A19;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+}
+
+.find-b1-p2 {
+  color: #0D0A19;
+text-align: right;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: 35px;
+}
+
+.find-p2 {
+  color: #9a9ea7;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+  margin-bottom: 25px;
+}
+
+
+.find-div-1 p {
+  line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive */
+
 @media (min-width: 768px) {
   .BorderRight {
     border-right: 1px solid #ede8e9;
@@ -162,6 +557,24 @@ body {
   }
   .BorderSpace {
     margin-top: 29px;
+  }
+
+  .hide-box {
+    height: 211px;
+    width: 542px;
+    background-color: white;
+    position: absolute;
+    margin-top: -259px;
+    margin-left: -550px;
+  }
+
+  .hide-box-1 {
+    height: 211px;
+    width: 289px;
+    background-color: white;
+    position: absolute;
+    margin-top: -259px;
+    margin-left: 1268px;
   }
 }
 
@@ -183,7 +596,7 @@ body {
     letter-spacing: -0.1px;
   }
   .TopFooterSection {
-    height: 403px;
+    height: 450px;
   }
   .form-select {
     width: 30rem;
@@ -195,8 +608,55 @@ body {
     align-items: center;
     justify-content: center;
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
   }
   .TopFooterSection p {
     margin-top: 22px;
+  }
+
+  .Section2 {
+    margin-top: 24rem;
+  }
+
+  .Section2 img {
+    margin-top: 1.25rem;
+  }
+
+  .product {
+    min-width: 49%;
+    margin-right: 10px;
+  }
+
+  .auction-box {
+    margin: 10px auto;
+  }
+  .car-auct-section {
+    overflow-x: hidden;
+    width: 100%;
+    margin-left: 5%;
+  }
+  .product-btn-m {
+    color: var(--7963-f-0-primary, #7963f0);
+    border-radius: 8px !important;
+    text-align: center !important;
+    font-family: "Inter";
+    font-size: 12px !important;
+    font-style: normal;
+    font-weight: 700 !important;
+    line-height: 18px !important;
+    background: var(
+      --7963-f-0-soft,
+      linear-gradient(
+        0deg,
+        rgba(255, 255, 255, 0.85) 0%,
+        rgba(255, 255, 255, 0.85) 100%
+      ),
+      #7963f0
+    );
+  }
+
+  .remove-img {
+    display: none;
   }
 }
