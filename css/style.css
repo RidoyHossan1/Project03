@@ -439,6 +439,7 @@ body {
   font-weight: 400;
   line-height: 21px;
   letter-spacing: -0.1px;
+  margin-bottom: 62px;
 }
 
 .find-b-p1 {
@@ -448,6 +449,7 @@ body {
   font-style: normal;
   font-weight: 700;
   line-height: 27px;
+  margin-top: 25px;
 }
 
 .find-b-p2 {
@@ -458,6 +460,7 @@ body {
   font-weight: 400;
   line-height: 21px;
   letter-spacing: -0.1px;
+  margin-top: -21px;
 }
 
 /* .find-brand {
@@ -465,21 +468,84 @@ body {
 } */
 
 .find-brand {
-  margin-top: 31px;
+  
   position: relative;
+  margin-bottom: 20px;
 }
 
 .find-brand-img {
-  width: 42px;
-  height: 22px;
   margin-left: 30px;
   margin-top: 37px;
   margin-bottom: 37px;
 }
 
 .find-des {
-  margin-left: 31px;
+  margin-left: 16px;
 }
+
+.find-icon img {
+  margin-left: 7rem;
+  margin-top: 40px;
+}
+
+.find-des-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.find-b1-p1 {
+  color: #0D0A19;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+}
+
+.find-b1-p2 {
+  color: #0D0A19;
+text-align: right;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: 35px;
+}
+
+.find-p2 {
+  color: #9a9ea7;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: -0.1px;
+  margin-bottom: 25px;
+}
+
+
+.find-div-1 p {
+  line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Responsive */
 
